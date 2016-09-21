@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GeoLocator</string>
+    <string name="title_activity_wheather">WheatherActivity</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- Application titles -->
+    <string name="mainActivity_title">to geolocator</string>
+    <string name="locationDetails_title">Location Details</string>
+
+    <!-- Application buttons -->
+    <string name="findLocation_btn">Find my Location</string>
+    <string name="locationSummary_btn">Location Summary</string>
+</resources>
